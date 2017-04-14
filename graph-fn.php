@@ -1,7 +1,7 @@
 <?php
 
 $CONST = array();
-$CONST['DATA'] = './data/';
+$CONST['DATA'] = './db/';
 $CONST['DATA-V'] = $CONST['DATA'] . 'vertices/';
 $CONST['DATA-E'] = $CONST['DATA'] . 'edges/';
 
